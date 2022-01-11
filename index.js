@@ -1,0 +1,1 @@
+ReactDOM.render(<ul><li>Manzanas</li><li>Cereza</li></ul>, document.getElementById("root"))
